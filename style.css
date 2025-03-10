@@ -197,3 +197,26 @@ footer p {
 .profile-info ul li a:hover {
     color: #2980b9;
 }
+/* Animasi untuk teks selamat datang */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+#welcomeMessage {
+    font-size: 3em;
+    margin-bottom: 10px;
+    animation: fadeIn 1.5s ease-in-out;
+}
+
+#welcomeDescription {
+    font-size: 1.2em;
+    color: #7f8c8d;
+    animation: fadeIn 2s ease-in-out;
+}
