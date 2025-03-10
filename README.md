@@ -1,6 +1,5 @@
 # Portofolio Saya
 
-![Portofolio Preview](https://via.placeholder.com/800x400.png?text=Portofolio+Preview) <!-- Ganti dengan gambar proyek Anda -->
 
 Portofolio ini adalah website pribadi yang menampilkan informasi tentang saya, proyek-proyek yang telah saya kerjakan, dan cara menghubungi saya. Dibangun menggunakan teknologi modern seperti HTML, CSS, dan JavaScript.
 
@@ -22,4 +21,3 @@ Berikut adalah bahasa pemrograman dan teknologi yang digunakan dalam proyek ini:
    ```bash
    git clone https://github.com/username/portofolio.git
 
-   
